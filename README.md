@@ -28,7 +28,7 @@
 
 - Python
 - Jupyter Notebook
-- Библиотеки Python: pandas, nltk, matplotlib, wordcloud
+- Библиотеки Python:  matplotlib, wordcloud, seaborn, Counter
 
 #### Хранение данных
 
